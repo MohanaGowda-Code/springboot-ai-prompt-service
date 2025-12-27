@@ -58,5 +58,7 @@ Content-Type: application/json
   "response": "AI generated text here..."
 }
 
-#Author
-Mohana P – Senior Java & Spring Boot Developer
+## Author
+**Mohana P** – Senior Java & Spring Boot Developer  
+[GitHub](https://github.com/MohanaGowda-Code)
+
