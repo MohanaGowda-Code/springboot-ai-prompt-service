@@ -1,0 +1,59 @@
+# ===============================
+# Environment & Secrets
+# ===============================
+.env
+*.env
+src/main/resources/application.yml
+application-local.properties
+
+# ===============================
+# Maven
+# ===============================
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# ===============================
+# Logs
+# ===============================
+logs/
+*.log
+
+# ===============================
+# IDE - IntelliJ IDEA
+# ===============================
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# ===============================
+# IDE - VS Code
+# ===============================
+.vscode/
+
+# ===============================
+# OS files
+# ===============================
+.DS_Store
+Thumbs.db
+
+# ===============================
+# Temporary files
+# ===============================
+*.tmp
+*.swp
+
+# ===============================
+# Test Reports
+# ===============================
+surefire-reports/
+failsafe-reports/
+
+# ===============================
+# Node (if UI added later)
+# ===============================
+node_modules/
+dist/
+
